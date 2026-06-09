@@ -32,6 +32,6 @@ Whether you're a student learning Morse code for the first time or a developer l
 
 **Python Version:**
 ```bash
-git clone https://github.com/yourusername/Morse-generator.git
+git clone https://github.com/davaadnirahadii-ux/Ngl-Spammer
 cd Morse-generator
 python morse_generator.py
